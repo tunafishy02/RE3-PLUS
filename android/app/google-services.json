@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899875993159",
+    "project_id": "re3plus-ee9e8",
+    "storage_bucket": "re3plus-ee9e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899875993159:android:fd22ab3cc19cdb809ca362",
+        "android_client_info": {
+          "package_name": "com.example.bitsyre3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNaWoIsLHe2IsVtPDhtn-6ygAEoAVKn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
